@@ -1,5 +1,7 @@
 # Kubernetes essentials
 
+> This course notes are **WIP**.
+
 🎻 Linux Academy [course](https://linuxacademy.com/cp/modules/view/id/281) for understanding the Kubernetes container orchestration tool.
 
 ## Installation
